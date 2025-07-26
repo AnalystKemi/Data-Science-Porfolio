@@ -4,8 +4,11 @@ I'm a data profesional with three years of experience in transforming complex da
 
 
 
+
+
 ## Education
 - B.Eng., Civil Engineering, Univerity of Nigeria, Enugu State. (_July 2023_)
+
 
 
 
@@ -26,6 +29,8 @@ students in their thesis.
 
 
 
+
+
 ## Projects
 ### Credit Worthy Precision (_June 2025_) [Project Link](https://github.com/AnalystKemi/Credit-Worthy-Precision) 
 - Uncovered insights on how factors like education level, income type, and marital status influenced credit approval.
@@ -38,13 +43,17 @@ students in their thesis.
 - Cleaned and transformed data using Python Libraries (Pandas and NumPy) 
 - Performed data exploration and statistical analysis using SQL. 
 - Visualized data using Python Libraries (Matplotlib and Seaborn) to gain insights.
+
 ![image](Population_Image.png)
 
 ### Customer Sales Analysis (_October 2022_) [Project Link](https://github.com/AnalystKemi/Super_Store_Sales_Analysis_Power-BI) 
 - Created a dashboard with Power Bi to identify key business intelligences that can improve sales performance  
 - Cleaned and Transformed data by using Excel to ensure data completeness and validity 
 - Performed customer segmentation using DAX
+
 ![image](sales image 1.png)
+
+
 
 
 
@@ -59,6 +68,8 @@ students in their thesis.
 
 
 
+
+
 ## Industry Tools
 - Spread Sheets: Microsoft Excel, Google Sheets
 - Programming: Python, SQL
@@ -66,6 +77,10 @@ students in their thesis.
 - Visualization: Power BI, Excel Dashboards, Plotly
 - Environments: Jupyter Notebook, Google Colab, VS Code, SPSS
 - Version Control: GitHub
+
+
+
+
 
 
 
@@ -77,6 +92,11 @@ students in their thesis.
 - Understanding Data Visualization, DataCamp (_2022_)
 - Data Science Track - Women Techsters Bootcamp Cohort 2.1 (_2022_)
 - Financial Literacy Training – Ingressive4Good X Money Africa (_2022_)
+
+
+
+
+
  
 
 
