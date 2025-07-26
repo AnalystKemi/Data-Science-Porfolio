@@ -1,9 +1,13 @@
-# Portfolio
+# Data Scientist
 ## About Me
 I'm a data profesional with three years of experience in transforming complex data sets into actionable insights and adept at using data to drive well-informed decision-making, boost overall business performance, and optimize operational efficiency.
 
+
+
 ## Education
 - B.Eng., Civil Engineering, Univerity of Nigeria, Enugu State. (_July 2023_)
+
+
 
 ## Work Experience
 ### Charity Collections Analysis Freelance Data Analyst, Leicester UK (_June 2025_)
@@ -12,12 +16,15 @@ I'm a data profesional with three years of experience in transforming complex da
 - Built an interactive dashboard in Power BI to visualize key metrics.
 - Helped the organization identify that 95.8% of their collections were fresh produce, guiding better storage planning.
 - Enabled the client to track real-time collections and make data-backed decisions for future drives and donor engagement.
+  
 ![image](charity collection image.png)
 
 ### Research Assistant, Department of Civil Engineering, University of Nigeria, Nsukka.  (_September 2024_)
 Activities: I collected data mainly from surveys and analyzed them for deriving insights using Microsoft Excel and 
 SPSS. I also assist my supervisor in writing research papers and publications and also guide undergraduate 
 students in their thesis.
+
+
 
 ## Projects
 ### Credit Worthy Precision (_June 2025_) [Project Link](https://github.com/AnalystKemi/Credit-Worthy-Precision) 
@@ -39,6 +46,8 @@ students in their thesis.
 - Performed customer segmentation using DAX
 ![image](sales image 1.png)
 
+
+
 ## Technical Skills
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -48,6 +57,8 @@ students in their thesis.
 - Business Problem Framing & Data Storytelling
 - Dashboarding & Data Presentation
 
+
+
 ## Industry Tools
 - Spread Sheets: Microsoft Excel, Google Sheets
 - Programming: Python, SQL
@@ -55,6 +66,8 @@ students in their thesis.
 - Visualization: Power BI, Excel Dashboards, Plotly
 - Environments: Jupyter Notebook, Google Colab, VS Code, SPSS
 - Version Control: GitHub
+
+
 
 ## Certifications
 - TechUp Africa Mentorship Program 3.0 (_2024_)
@@ -65,6 +78,8 @@ students in their thesis.
 - Data Science Track - Women Techsters Bootcamp Cohort 2.1 (_2022_)
 - Financial Literacy Training – Ingressive4Good X Money Africa (_2022_)
  
+
+
 ## Contact Me 
 📧 ohai.blessing1@gmail.com | ☎️ +234-811-0657-823 | 💼 [LinkedIn](https://linkedin.com/in/blessing-ohai-a1bb78203) | 💻 [GitHub](https://github.com/AnalystKemi) | 📍 Federal Capital Territory, Nigeria
 
