@@ -12,6 +12,7 @@ I'm a data profesional with three years of experience in transforming complex da
 - Built an interactive dashboard in Power BI to visualize key metrics.
 - Helped the organization identify that 95.8% of their collections were fresh produce, guiding better storage planning.
 - Enabled the client to track real-time collections and make data-backed decisions for future drives and donor engagement.
+![image](charity collection image.png)
 
 ### Research Assistant, Department of Civil Engineering, University of Nigeria, Nsukka.  (_September 2024_)
 Activities: I collected data mainly from surveys and analyzed them for deriving insights using Microsoft Excel and 
@@ -19,7 +20,7 @@ SPSS. I also assist my supervisor in writing research papers and publications an
 students in their thesis.
 
 ## Projects
-### Credit Worthy Precision (_June 2025_) [Project Link]( https://github.com/AnalystKemi/World-Population-Analysis) 
+### Credit Worthy Precision (_June 2025_) [Project Link](https://github.com/AnalystKemi/Credit-Worthy-Precision) 
 - Uncovered insights on how factors like education level, income type, and marital status influenced credit approval.
 - Investigated correlation between numerical features and target label.
 - Used Scikit-learn to split data, train models, and evaluate using metrics like accuracy, precision, recall, and confusion matrices.
@@ -30,12 +31,14 @@ students in their thesis.
 - Cleaned and transformed data using Python Libraries (Pandas and NumPy) 
 - Performed data exploration and statistical analysis using SQL. 
 - Visualized data using Python Libraries (Matplotlib and Seaborn) to gain insights.
+![image](Population_Image.png)
 
 ### Customer Sales Analysis (_October 2022_) [Project Link](https://github.com/AnalystKemi/Super_Store_Sales_Analysis_Power-BI) 
 - Created a dashboard with Power Bi to identify key business intelligences that can improve sales performance  
 - Cleaned and Transformed data by using Excel to ensure data completeness and validity 
-- Performed customer segmentation using DAX 
- 
+- Performed customer segmentation using DAX
+![image](sales image 1.png)
+
 ## Technical Skills
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -63,5 +66,5 @@ students in their thesis.
 - Financial Literacy Training – Ingressive4Good X Money Africa (_2022_)
  
 ## Contact Me 
-[Email](ohai.blessing1@gmail.com) | [LinkedIn](linkedin.com/in/blessing-ohai-a1bb78203) | [GitHub](https://github.com/AnalystKemi) 
+📧 ohai.blessing1@gmail.com | ☎️ +234-811-0657-823 | 💼 [LinkedIn](https://linkedin.com/in/blessing-ohai-a1bb78203) | 💻 [GitHub](https://github.com/AnalystKemi) | 📍 Federal Capital Territory, Nigeria
 
