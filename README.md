@@ -1,6 +1,6 @@
 # Portfolio
 ## About Me
-I am Blessing, a driven and ambitious STEM professional dedicated to making a meaningful impact through innovation and leadership. With a passion for growth and a commitment to excellence, I thrive in dynamic environments where I can leverage my skills to drive positive change.  I'm a data profesional with three years of experience in transforming complex data sets into actionable insights and adept at using data to drive well-informed decision-making, boost overall business performance, and optimize operational efficiency.
+I'm a data profesional with three years of experience in transforming complex data sets into actionable insights and adept at using data to drive well-informed decision-making, boost overall business performance, and optimize operational efficiency.
 
 ## Education
 - B.Eng., Civil Engineering, Univerity of Nigeria, Enugu State. (_July 2023_)
