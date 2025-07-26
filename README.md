@@ -1,4 +1,6 @@
-### Blessing Ohai
+## About Me
+I'm Blessing, a driven and ambitious STEM professional dedicated to making a meaningful impact through innovation and leadership. With a passion for growth and a commitment to excellence, I thrive in dynamic environments where I can leverage my skills to drive positive change. I'm always excited to connect with collaborators, other experts, who share my passion for using data to drive positive change.
+
 ## Education
 - B.Eng., Civil Engineering | Univerity of Nigeria, Enugua State, Nigeria.   (_July 2023_)
 
